@@ -1,1 +1,1 @@
-# odin-recipes
+This project is about recipes. Im going to create an index page, and also separate pages for each recipe. Its important to use the new things that Ive learner in TOP and also from the earlier lessons about HTML. This site will include only HTML, as I still havent reached the CSS part at the TOP
